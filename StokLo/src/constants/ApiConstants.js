@@ -1,9 +1,0 @@
-export const BASE_URL = 'http://13.235.137.221:3005/api/';
-export const CONSOLE_ENABLED = true;
-export const GOOGLE_API_KEY = 'AIzaSyA6UfWsoXt63QDE3phm0W1XMRBiO2xrUzo';
-// export const GOOGLE_API_KEY = 'AIzaSyDnOy7WwBfBhcFuz_VMgFX1OlA_XVig25Q';
-export const YOUTUBE_LINK = 'https://www.youtube.com/channel/UCBVVZt2pw9W2MsCdHHTIbOg';
-export const PRIVACY_URL = 'https://sportsnerve.com/privacy-policy/';
-export const TNC_URL = 'https://sportsnerve.com/terms-and-conditions/';
-export const FAQ_URL = 'https://sportsnerve.com/faq/';
-export const SIZE_CHART_URL = 'https://sportsnerve.com/size-chart/';

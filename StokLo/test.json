@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "message": "Cart data fetched successfully.",
+  "data": {
+    "count": 1,
+    "cartData": [
+      {
+        "id": 10,
+        "productId": 3,
+        "userId": 17,
+        "quantity": 1,
+        "createdAt": "2023-12-27T10:10:51.000Z",
+        "updatedAt": "2023-12-27T10:10:51.000Z",
+        "productDetails": {
+          "id": 3,
+          "productZohoId": "1527205000000239002",
+          "productName": "Pentop",
+          "vendorId": 1,
+          "compositionName": "pentopcomp",
+          "units": "Kilogram",
+          "smallestUnit": "KG",
+          "noOfStock": 23,
+          "margin": "33",
+          "marginPerUnit": "1.43",
+          "productComposition": "thdhhdhdhdshbhsbxdbdbcbcgcfhgfgff",
+          "height": null,
+          "width": null,
+          "length": null,
+          "mrp": "32.00",
+          "mrpPerUnit": "1.391304347826087",
+          "netPrice": "23.00",
+          "dimestion": "76X98X87",
+          "netPricePerUnit": "1.00",
+          "productCompanyName": null,
+          "status": 1,
+          "sku": "746374832922992929292929292929929299",
+          "weight": null,
+          "createdAt": "2023-12-27T10:04:16.000Z",
+          "updatedAt": "2023-12-27T10:43:24.000Z",
+          "productImage": [
+            {
+              "productImage": "http://13.235.137.221:3005/uploads/images/product/11caaa66-0c5b-40e8-a153-b776397acc651703671456961.png"
+            }
+          ],
+          "vendorDetails": {
+            "name": "Cyno"
+          }
+        },
+        "itemPrice": 23,
+        "image": "http://13.235.137.221:3005/uploads/images/product/11caaa66-0c5b-40e8-a153-b776397acc651703671456961.png"
+      }
+    ],
+    "calculatedAmount": {
+      "totalItemPrice": 23,
+      "gst": -3.84,
+      "walletDiscount": 0,
+      "offerAmount": 0,
+      "deliveryAmount": 55,
+      "totalAmount": 74.16
+    }
+  }
+}
